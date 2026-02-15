@@ -1,0 +1,162 @@
+/* Base Classes */
+
+.d-inline-block {
+    display: inline-block;
+}
+
+.v-align-middle {
+    vertical-align: middle;
+}
+
+/* Header Styles */
+
+.header-contaner {
+    padding: 69px 0 69px 162px;
+    background-color: #ffffff;
+}
+
+.nav-style {
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0;
+    color: #274C5B;
+}
+
+.navigation {
+    margin-left: 150px;
+}
+
+.nav-pad {
+    margin: 0px 45px;
+}
+
+.nav-pad2 {
+    margin-left: 45px;
+}
+
+/* Hero Section Styles */
+
+.hero-heading {
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 100%;
+    letter-spacing: 0;
+    color: #274C5B;
+    width: 524px;
+    padding: 6px 0 25px;
+}
+
+.hero-span {
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 100%;
+    letter-spacing: 0;
+    color: #7EB693;
+}
+
+.hero-paragraph {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 165%;
+    letter-spacing: 0;
+    color: #525C60;
+    width: 671px;
+}
+
+.box1-paragraph,
+.box2-paragraph {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 165%;
+    letter-spacing: 0%;
+    width: 504px;
+    padding-left: 60px;
+    color: #525C60;
+}
+
+.box1,
+.box2 {
+    width: 339px;
+    height: 81px;
+    background-color: #ECECEC;
+    padding: 29px 91px 29px 27px;
+}
+
+.box1-inside-text,
+.box2-inside-text {
+    margin-left: 7px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0;
+    color: #274C5B;
+}
+
+.feaure1 {
+   margin: 36px 0 24px;
+}
+
+.hero-image {
+    width: 678px;
+    margin-left: 51px;
+    border-radius: 30px;
+}
+
+.hero-wrapper {
+    width: 1400px;
+    margin: 100px auto;
+}
+
+.hero-left {
+    width: 671px;
+}
+
+/* Return Policy Styles */
+
+.return-box1,
+.return-box2,
+.return-box3,
+.return-box4 {
+    background-color: #FFFFFF;
+    width: 257px;
+    height: 335px;
+    padding: 29px 0 0 22px;
+}
+
+.return-heading {
+    font-weight: 800;
+    font-size: 25px;
+    line-height: 100%;
+    letter-spacing: 0;
+    color: #274C5B;
+}
+
+.return-paragraph {
+    width: 184px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 165%;
+    letter-spacing: 0;
+    color: #525C60;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.return-box2 {
+    margin: 0 30px;
+}
+
+.return-box4 {
+    margin-left: 30px;
+}
+
+.return-policy-wrapper {
+    width: 1118px;
+    margin: 100px auto;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+
